@@ -17,7 +17,7 @@ bot.command('reinscripcion', ctx => {
     ctx.reply('Comando de Reinscripcion!!');
 });
 
-bot.hears('Hola', ctx => {
+bot.hears('Holaaa', ctx => {
     ctx.reply('Hey, soy JuchiBot, tu asistente Universitario. Para poder brindarte mi ayuda, necesito que escribas cualquiera de los comandos.');
 });
 
